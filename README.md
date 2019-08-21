@@ -1,5 +1,5 @@
 # SpringFrameworkCrud
-Uygulama Özellikleri
+Uygulama Özellikleri:
   Spring MVC ile CRUD işlemlerinin gerçekleştirilmesi ve Session kontrol ile güvenli oturum denetimi
   Teknoloji:Spring MVC,Mysql
   
